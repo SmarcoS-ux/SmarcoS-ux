@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/f-e-r-a">
-  <img height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=f-e-r-a&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-e-r-a&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="190" width="360" src="https://github-readme-stats.vercel.app/api?username=f-e-r-a&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="190" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-e-r-a&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
