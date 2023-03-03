@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/f-e-r-a">
+  <a href="https://github.com/smarcos-ux">
   <img height="190" width="360" src="https://github-readme-stats.vercel.app/api?username=f-e-r-a&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="190" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-e-r-a&layout=compact&langs_count=7&theme=gotham"/>
 </div>
